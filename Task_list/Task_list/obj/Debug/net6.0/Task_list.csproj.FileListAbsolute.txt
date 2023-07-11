@@ -1,0 +1,15 @@
+C:\Users\vcebr\OneDrive\Desktop\List_coll\Task_list\Task_list\bin\Debug\net6.0\Task_list.exe
+C:\Users\vcebr\OneDrive\Desktop\List_coll\Task_list\Task_list\bin\Debug\net6.0\Task_list.deps.json
+C:\Users\vcebr\OneDrive\Desktop\List_coll\Task_list\Task_list\bin\Debug\net6.0\Task_list.runtimeconfig.json
+C:\Users\vcebr\OneDrive\Desktop\List_coll\Task_list\Task_list\bin\Debug\net6.0\Task_list.dll
+C:\Users\vcebr\OneDrive\Desktop\List_coll\Task_list\Task_list\bin\Debug\net6.0\Task_list.pdb
+C:\Users\vcebr\OneDrive\Desktop\List_coll\Task_list\Task_list\obj\Debug\net6.0\Task_list.csproj.AssemblyReference.cache
+C:\Users\vcebr\OneDrive\Desktop\List_coll\Task_list\Task_list\obj\Debug\net6.0\Task_list.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vcebr\OneDrive\Desktop\List_coll\Task_list\Task_list\obj\Debug\net6.0\Task_list.AssemblyInfoInputs.cache
+C:\Users\vcebr\OneDrive\Desktop\List_coll\Task_list\Task_list\obj\Debug\net6.0\Task_list.AssemblyInfo.cs
+C:\Users\vcebr\OneDrive\Desktop\List_coll\Task_list\Task_list\obj\Debug\net6.0\Task_list.csproj.CoreCompileInputs.cache
+C:\Users\vcebr\OneDrive\Desktop\List_coll\Task_list\Task_list\obj\Debug\net6.0\Task_list.dll
+C:\Users\vcebr\OneDrive\Desktop\List_coll\Task_list\Task_list\obj\Debug\net6.0\refint\Task_list.dll
+C:\Users\vcebr\OneDrive\Desktop\List_coll\Task_list\Task_list\obj\Debug\net6.0\Task_list.pdb
+C:\Users\vcebr\OneDrive\Desktop\List_coll\Task_list\Task_list\obj\Debug\net6.0\Task_list.genruntimeconfig.cache
+C:\Users\vcebr\OneDrive\Desktop\List_coll\Task_list\Task_list\obj\Debug\net6.0\ref\Task_list.dll
